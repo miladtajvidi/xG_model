@@ -62,10 +62,10 @@ Venn-ABERS calibration helps improve the reliability of probability estimates
 
 ## References
 
-1- [McKay Johns' Build Expected Goals Model](https://github.com/mckayjohns/youtube-videos/blob/main/code/build_expected_goals_model.ipynb)
-2- [ConvergenceWarning: Liblinear failed to converge, increase the number of iterations](https://stackoverflow.com/questions/52670012/convergencewarning-liblinear-failed-to-converge-increase-the-number-of-iterati)
-3- [Preprocessing in scikit-learn](https://scikit-learn.org/stable/modules/preprocessing.html)
-4- [Logistic Regression and Different Solvers in scikit-learn](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)
-5- [Why ROC AUC Might Be Misleading — and What to Use Instead](https://valeman.medium.com/why-roc-auc-might-be-misleading-and-what-to-use-instead-520ea242be8a)
-6- [How to calibrate your classifier in an intelligent way using Venn-Abers Conformal Prediction](https://valeman.medium.com/how-to-calibrate-your-classifier-in-an-intelligent-way-a996a2faf718)
-7- [Venn-ABERS Calibration github repo](https://github.com/ip200/venn-abers)
+1- [McKay Johns' Build Expected Goals Model](https://github.com/mckayjohns/youtube-videos/blob/main/code/build_expected_goals_model.ipynb)<br>
+2- [ConvergenceWarning: Liblinear failed to converge, increase the number of iterations](https://stackoverflow.com/questions/52670012/convergencewarning-liblinear-failed-to-converge-increase-the-number-of-iterati)<br>
+3- [Preprocessing in scikit-learn](https://scikit-learn.org/stable/modules/preprocessing.html)<br>
+4- [Logistic Regression and Different Solvers in scikit-learn](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression)<br>
+5- [Why ROC AUC Might Be Misleading — and What to Use Instead](https://valeman.medium.com/why-roc-auc-might-be-misleading-and-what-to-use-instead-520ea242be8a)<br>
+6- [How to calibrate your classifier in an intelligent way using Venn-Abers Conformal Prediction](https://valeman.medium.com/how-to-calibrate-your-classifier-in-an-intelligent-way-a996a2faf718)<br>
+7- [Venn-ABERS Calibration github repo](https://github.com/ip200/venn-abers)<br>
